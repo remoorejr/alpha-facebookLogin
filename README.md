@@ -43,7 +43,7 @@ If you plan on rolling this out on iOS, please note that you will need to ensure
 
 ## Cocoapods
 
-This plugin use the CocoaPods dependency manager in order to satisfy the iOS Facebook SDK library dependencies.
+This plugin uses the CocoaPods dependency manager in order to satisfy the iOS Facebook SDK library dependencies.
 
 Therefore please make sure you have Cocoapods installed in your iOS build environment - setup instructions can be found [here](https://cocoapods.org). Also make sure your local Cocoapods repo is up-to-date by running 
 
