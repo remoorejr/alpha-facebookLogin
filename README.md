@@ -41,7 +41,7 @@ The password is android.
 
 If you plan on rolling this out on iOS, please note that you will need to ensure that you have properly set up your Native iOS App settings on the Facebook App Dashboard. Please see [Getting Started with the Facebook SDK](https://developers.facebook.com/docs/ios/getting-started/)
 
-##Cocoapods
+## Cocoapods
 
 This plugin use the CocoaPods dependency manager in order to satisfy the iOS Facebook SDK library dependencies.
 
@@ -62,7 +62,7 @@ pod dependencies
 
 ```
 
-###Error: pod: Command failed with exit code 31
+### Error: pod: Command failed with exit code 31
 
 If you install the plugin and this error is generated: 
 
