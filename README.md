@@ -3,7 +3,7 @@
 This is an example component for use with Alpha Anywhere that demonstrates basic login and logout using the Facebook SDK.
 
 The app must be built as a Cordova app using the Cordova App Builder built into Alpha Anywhere.
-ß
+
 See: [Alpha Anywhere](https://www.alphasoftware.com/mobile-app-development-platform)
 
 ## Plugins Required
